@@ -1,0 +1,30 @@
+#heading{
+    border: 0.2cm solid blue;
+}
+#ENGAGE{
+    background-color: rgb(212, 254, 254);
+}
+#intro{
+    background-color: rgb(252, 252, 219);
+}
+#tickets{
+    background-color: rgb(209, 168, 247);
+    color: rgb(255, 242, 4);
+    text-align: center;
+    letter-spacing: 0.25cm;
+    border: 0.2cm solid rgb(255, 225, 0);
+     }
+#tickets2{
+    background-color: rgb(178, 102, 250);
+    color: rgb(255, 242, 0);
+    text-align: center;
+    letter-spacing: 0.25cm;
+     border:0.3cm solid rgb(255, 225, 0);
+}
+#tickets3{
+    background-color: rgb(151, 41, 253);
+    color: rgb(255, 242, 0);
+    text-align: center;
+    letter-spacing: 0.25cm;
+    border:0.4cm solid rgb(247, 224, 50);
+}
